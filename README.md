@@ -6,11 +6,17 @@
 python3 reflection.py -e endpoints.txt -p params.txt -o output.txt -rec on --mode 2 --discord [WEBHOOK_URL] -t 50
 ```
 
+![image](https://user-images.githubusercontent.com/13125933/113524656-12f4a780-95a8-11eb-822d-9c3b3f969a71.png)
+
+
 ## Castilho's Recommended Command for SQLi Hunting:
 
 ```
 python3 reflection.py -e endpoints.txt -p params.txt -o output.txt --mode 4 --discord [WEBHOOK_URL] -t 50
 ```
+
+![image](https://user-images.githubusercontent.com/13125933/113524697-433c4600-95a8-11eb-968b-bcc6c55c3d2c.png)
+
 
 ## Mikey's Recommended Command for SSRF Hunting:
 
